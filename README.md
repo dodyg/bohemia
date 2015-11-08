@@ -1,5 +1,5 @@
 # bohemia
-An implementation of IATA NDC aggregation network.
+An implementation of IATA's [NDC (protocol)](https://www.iata.org/whatwedo/airline-distribution/ndc/pages/default.aspx) aggregation network.
 
 The goal is to create a public utility aggregation network where airlines, travel agents and online travel agent to have access to wide ranges of airlines's offering (tickets, ancilliary offers, etc) for free or nearly free.
 
