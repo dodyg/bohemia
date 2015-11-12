@@ -32,6 +32,7 @@ The characteristics I am looking for as follows:
 
 #Resources
 
+- [OpnNDC Message Validation Tool](http://ndc-validator.open-ndc.org/validate)
 - [http://ndc.developer.iata.org/](http://ndc.developer.iata.org/)
 - The other good guys - [OpenNDC](http://open-ndc.org/)
 
