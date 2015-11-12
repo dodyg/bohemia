@@ -26,7 +26,12 @@ The characteristics I am looking for as follows:
 - Make it easy to deal with dead nodes
 - Simple programming model
 
+#Read this first
+
+[NDC Implementation Guide](http://www.iata.org/whatwedo/airline-distribution/ndc/Documents/ndc-implementation-guide.pdf)
+
 #Resources
 
 - [http://ndc.developer.iata.org/](http://ndc.developer.iata.org/)
 - The other good guys - [OpenNDC](http://open-ndc.org/)
+
