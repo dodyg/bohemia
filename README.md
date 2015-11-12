@@ -26,3 +26,7 @@ The characteristics I am looking for as follows:
 - Make it easy to deal with dead nodes
 - Simple programming model
 
+#Resources
+
+- [http://ndc.developer.iata.org/](http://ndc.developer.iata.org/)
+- The other good guys - [OpenNDC](http://open-ndc.org/)
