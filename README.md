@@ -26,6 +26,11 @@ The characteristics I am looking for as follows:
 - Make it easy to deal with dead nodes
 - Simple programming model
 
+#The Plan
+
+- Explore the domain and design using Microsoft Orleans.
+- Explore the technical merit of OTP based system using Elixir and Phoenix framework.
+
 #Read this first
 
 [NDC Implementation Guide](http://www.iata.org/whatwedo/airline-distribution/ndc/Documents/ndc-implementation-guide.pdf)
